@@ -71,7 +71,7 @@ module.exports = {
           MarkdownRemark: {
             title: node => node.frontmatter.title,
             tags: node => node.frontmatter.tags,
-            path: node => node.frontmatter.path,
+            path: node => node.frontmatter.slug,
             author: node => node.frontmatter.author,
             category: node => node.frontmatter.category
           }
