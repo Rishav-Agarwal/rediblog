@@ -71,3 +71,5 @@ So there are mainly three things interacting when you use Android Studio to crea
 - Android Studio itself.
 - The code you write in Java and XML.
 - And the Android SDK which you’ll access through your Java code.
+
+<div style="text-align: right">Next: <a href="/android-start-building-apps">Start building apps</a></div>

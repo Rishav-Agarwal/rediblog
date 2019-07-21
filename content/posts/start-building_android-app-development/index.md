@@ -11,7 +11,7 @@ tags:
   - mobile
 ---
 
-Since you have setup everything, you can start building apps! Wohoo 🙌
+Since you have [setup everything needed for android app development](http://localhost:8000/android-getting-started), you can start building apps! Wohoo 🙌
 
 ---
 
@@ -51,3 +51,8 @@ Since you have setup everything, you can start building apps! Wohoo 🙌
 ## Run your App!
 
 To learn how to run your app on an Emulator or a Real Device, [**visit this link**](https://developer.android.com/training/basics/firstapp/running-app.html).
+
+<div style="width: 100%; display: flex; justify-content: space-between;">
+  <span>Prev: <a href="/android-getting-started">Getting started</a></span>
+  <span>Next: <a href="/android-designing-basics">Designing basics</a></span>
+</div>
