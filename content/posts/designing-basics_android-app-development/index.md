@@ -37,7 +37,7 @@ There are many different types of view. Some are listed below:
 
 Some of the view groups are- _LinearLayout_, _RelativeLayout_, _ConstraintLayout_ etc.
 
-![Types of views](https://a8q8p3f5.stackpathcdn.com/wp-content/uploads/2015/04/views-in-android1.png)
+![Types of views](./views.png)
 
 😅 So many new words! Don't worry you need not memorize them, no one needs to! You can always refer to [this vocabulary](https://developers.google.com/android/for-all/vocab-words/) anytime you like.
 

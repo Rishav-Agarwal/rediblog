@@ -10,6 +10,7 @@
     "classnames": "^2.2.6",
     "elasticlunr": "^0.9.5",
     "gatsby": "^2.0.20",
+    "gatsby-cli": "^2.7.22",
     "gatsby-pagination": "^1.2.0",
     "gatsby-plugin-catch-links": "^2.1.2",
     "gatsby-plugin-feed": "^2.0.8",
