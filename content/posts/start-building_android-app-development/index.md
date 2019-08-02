@@ -11,7 +11,7 @@ tags:
   - mobile
 ---
 
-Since you have [setup everything needed for android app development](http://localhost:8000/android-getting-started), you can start building apps! Wohoo 🙌
+Since you have [setup everything needed for android app development](/android-getting-started), you can start building apps! Wohoo 🙌
 
 ---
 

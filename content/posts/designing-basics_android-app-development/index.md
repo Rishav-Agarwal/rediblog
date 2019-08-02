@@ -11,7 +11,7 @@ tags:
   - mobile
 ---
 
-Now that you can now [create a new android project using android studio](http://localhost:8000/android-start-building-apps), we shall see how android apps are designed.
+Now that you can now [create a new android project using android studio](android-start-building-apps), we shall see how android apps are designed.
 
 ---
 
