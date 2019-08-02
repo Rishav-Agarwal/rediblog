@@ -11,7 +11,7 @@ tags:
   - mobile
 ---
 
-Now that you can now [create a new android project using android studio](android-start-building-apps), we shall see how android apps are designed.
+Now that you can now [create a new android project using android studio](/android-start-building-apps), we shall see how android apps are designed.
 
 ---
 
@@ -110,8 +110,9 @@ While discusing about TextView, you might have observed that `background` helps 
 
 ---
 
-By now you might have got an idea about XML and how android layouts are built. Next we will try to build a simple android page and learn how different types of android views and viewgroups work!🎉
+By now you might have got an idea about XML and how android layouts are built. Next we will try to [build a simple android page for a famous monument - Taj Mahal](/android-simple-page) and learn how different types of android views and viewgroups work!🎉
 
 <div style="width: 100%; display: flex; justify-content: space-between;">
   <span>Prev: <a href="/android-start-building-apps">Start building apps</a></span>
+  <span>Next: <a href="/android-simple-page">Simple android page</a></span>
 </div>
