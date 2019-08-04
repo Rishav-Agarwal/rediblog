@@ -97,7 +97,7 @@ There goes our first image-
   app:layout_constraintTop_toTopOf="parent" />
 ```
 
-Lets understand on line at a time-
+Lets understand one line at a time-
 
 - `ImageView` is the view responsible for displaying images in our app.
 - `id` attribute identifies the view uniquely in the layout and then the view can be later refered using it. The general syntax for creating an id is- `@+id/id_name`
