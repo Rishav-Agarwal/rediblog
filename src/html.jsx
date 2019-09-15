@@ -53,6 +53,10 @@ export default class HTML extends React.Component {
           {headComponents}
           <link rel="shortcut icon" href={favicon} />
           {css}
+          <meta
+            name="google-site-verification"
+            content="0ssrQLhSRckJYlThgbRRogBblTbzVKNme4mvWFZq8co"
+          />
         </head>
         <body>
           <div id="___gatsby" dangerouslySetInnerHTML={{ __html: body }} />
